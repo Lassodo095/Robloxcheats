@@ -1,5 +1,6 @@
 Hey i see you downloaded my Ip Puller for Roblox.
-Before we get into the Game extract the zip and boot the Program up in administratormode.
+Before we get into the Game extract the zip and boot the Program up in administrator mode.
+(Try the IpPuller.py if the .exe doesnt boot up)
 
 1. Get on to a Game and search a Victim
 
